@@ -1,6 +1,7 @@
 # Brina Wang
 ## Introduction
 Hello! I'm a second year **computer science** student currently studying at UCSD!! 
+![cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgVfHORQFLyUf_rNove-xUmxIskDeMJ63REz_YIMQ6S0vCyQdkBvJos4igKspvCgpqnpy8h0xM--1uckzZIxDgyoHy37-MowkF-YzvVx8&s=10)
 > hallo
 Something I like is
 ```
@@ -28,3 +29,5 @@ Here are some projects I've worked on.
 - [ ] Etcetera
 ### Huffman Encoding
 [Here](#introduction) is a link back to my introduction. 
+and heres a cat picture in case we need multiple pictures...
+![yay](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3CsQJFS7Dgzk1HyFIRyhbwU9afohBHWoUl2_pP0JiGkRKOEx4ZbItJIEjz_x1cFQUaabdNaVVh7N9Kdf-VuhhCU_0_o-lnytitK8xEQ&s=10)
